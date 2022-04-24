@@ -17,3 +17,6 @@ Lu Qianxi 1004533
 2. Run all the code in .ipynb files in sequence.
 ### How to test
 1. Run all the code from section 6 (Test dataset evaluation) onwards in .ipynb files.
+
+## Report
+For more details, kindly find our report in: https://drive.google.com/file/d/1Zzx-qcGchqGv_pTR5tE9SNYqvml88LHl/view?usp=sharing
