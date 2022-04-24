@@ -10,3 +10,10 @@ Yu Peijia 1004538
 Yang Zhonghao 1004516 
 
 Lu Qianxi 1004533
+
+## Instructions
+### How to train
+1. Models and datasets can be found in: https://drive.google.com/drive/folders/1H3n_skH9kWjEqUNMT_Pv8xNLyggVZEk6?usp=sharing.
+2. Run all the code in the .ipynb file in the sequence.
+### How to test
+1. Run all the code after section 6: Test dataset evaluation.
